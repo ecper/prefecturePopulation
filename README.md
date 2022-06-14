@@ -1,0 +1,3 @@
+都道府県別人口抽出コンソールです node.js
+npm run devで動きます
+nodenv入ってない場合はanyenvからnodenvをインストールしてください
